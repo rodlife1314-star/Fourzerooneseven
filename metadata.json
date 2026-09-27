@@ -1,0 +1,6 @@
+{
+  "name": "Project SIXES — Pathfinder Culinary Digital Twin",
+  "description": "Culinary Knowledge Field, Interpretation & Service Simulator operating on the Pathfinder Digital Twin substrate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
